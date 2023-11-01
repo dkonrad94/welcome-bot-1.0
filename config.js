@@ -16,7 +16,7 @@
           "enabled": true, 
           "first": "👋",
           "second": "👋"
-        },,,
+        },
 
         "AddRole": {
           "enabled": true, 
